@@ -4,9 +4,9 @@
         <title>TaxcomAgent</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>пт, 11 сент. 2020 13:22:21 +0300</pubDate>
+            <pubDate>пт, 11 сент. 2020 15:09:50 +0300</pubDate>
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-            <enclosure url="https://m1lka.github.io/AutoUpdate/TaxcomAgent.zip" sparkle:version="2.0.0" sparkle:shortVersionString="1.0.0" sparkle:edSignature="+Elmcxg4+odvJU1fCNC8v3dB+wSCBF0d6GCbD7ulAUuSKsceoktTx+aVghIWrAy2tX55WL96gBz5bheo9+QJDg==" length="57338382" type="application/octet-stream"/>
+            <enclosure url="https://m1lka.github.io/AutoUpdate/TaxcomAgent.zip" sparkle:version="2.0.0" sparkle:shortVersionString="1.0.0" sparkle:edSignature="BcNiUQAY5tyyJH69LxNBoCoOCq/SKPJQteJ08BM7i4NRMTZzGD6kgIBsPD5Ph4x6SD1giGaO2WbthXdKfZsdBg==" length="57371996" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
