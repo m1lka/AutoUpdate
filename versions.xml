@@ -3,10 +3,10 @@
     <channel>
         <title>TaxcomAgent</title>
         <item>
-            <title>4.0.0</title>
+            <title>4.0.1</title>
             <pubDate>ср, 23 сент. 2020 15:14:55 +0300</pubDate>
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
-            <enclosure url="https://m1lka.github.io/AutoUpdate/TaxcomAgent.zip" sparkle:version="4.0.0" sparkle:shortVersionString="4.0.0" length="57379729" type="application/octet-stream" sparkle:edSignature="veXUMvYkm+QwoVJEK5mQMO8AO7Ku0CSnNng9kjj5KcfMRDWk7wcj46BiOPBWdHL8i7qI5yggrGKiCiv6RiYkBQ=="/>
+            <enclosure url="https://m1lka.github.io/AutoUpdate/TaxcomAgent.zip" sparkle:version="4.0.1" sparkle:shortVersionString="4.0.1" length="57379729" type="application/octet-stream" sparkle:edSignature="veXUMvYkm+QwoVJEK5mQMO8AO7Ku0CSnNng9kjj5KcfMRDWk7wcj46BiOPBWdHL8i7qI5yggrGKiCiv6RiYkBQ=="/>
         </item>
     </channel>
 </rss>
